@@ -1,1 +1,1 @@
-# Unity-Exercise-s
+# Unity-Exercises
