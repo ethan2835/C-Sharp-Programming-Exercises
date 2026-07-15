@@ -1,0 +1,14 @@
+C:\Users\ethan\Downloads\_e98b6cb652b44e2eb2f16f285e29d5c6_1-2-3-Start-Code\IfStatements\IfStatements\obj\Debug\net10.0\IfStatements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ethan\Downloads\_e98b6cb652b44e2eb2f16f285e29d5c6_1-2-3-Start-Code\IfStatements\IfStatements\obj\Debug\net10.0\IfStatements.AssemblyInfoInputs.cache
+C:\Users\ethan\Downloads\_e98b6cb652b44e2eb2f16f285e29d5c6_1-2-3-Start-Code\IfStatements\IfStatements\obj\Debug\net10.0\IfStatements.AssemblyInfo.cs
+C:\Users\ethan\Downloads\_e98b6cb652b44e2eb2f16f285e29d5c6_1-2-3-Start-Code\IfStatements\IfStatements\obj\Debug\net10.0\IfStatements.csproj.CoreCompileInputs.cache
+C:\Users\ethan\Downloads\_e98b6cb652b44e2eb2f16f285e29d5c6_1-2-3-Start-Code\IfStatements\IfStatements\bin\Debug\net10.0\IfStatements.exe
+C:\Users\ethan\Downloads\_e98b6cb652b44e2eb2f16f285e29d5c6_1-2-3-Start-Code\IfStatements\IfStatements\bin\Debug\net10.0\IfStatements.deps.json
+C:\Users\ethan\Downloads\_e98b6cb652b44e2eb2f16f285e29d5c6_1-2-3-Start-Code\IfStatements\IfStatements\bin\Debug\net10.0\IfStatements.runtimeconfig.json
+C:\Users\ethan\Downloads\_e98b6cb652b44e2eb2f16f285e29d5c6_1-2-3-Start-Code\IfStatements\IfStatements\bin\Debug\net10.0\IfStatements.dll
+C:\Users\ethan\Downloads\_e98b6cb652b44e2eb2f16f285e29d5c6_1-2-3-Start-Code\IfStatements\IfStatements\bin\Debug\net10.0\IfStatements.pdb
+C:\Users\ethan\Downloads\_e98b6cb652b44e2eb2f16f285e29d5c6_1-2-3-Start-Code\IfStatements\IfStatements\obj\Debug\net10.0\IfStatements.dll
+C:\Users\ethan\Downloads\_e98b6cb652b44e2eb2f16f285e29d5c6_1-2-3-Start-Code\IfStatements\IfStatements\obj\Debug\net10.0\refint\IfStatements.dll
+C:\Users\ethan\Downloads\_e98b6cb652b44e2eb2f16f285e29d5c6_1-2-3-Start-Code\IfStatements\IfStatements\obj\Debug\net10.0\IfStatements.pdb
+C:\Users\ethan\Downloads\_e98b6cb652b44e2eb2f16f285e29d5c6_1-2-3-Start-Code\IfStatements\IfStatements\obj\Debug\net10.0\IfStatements.genruntimeconfig.cache
+C:\Users\ethan\Downloads\_e98b6cb652b44e2eb2f16f285e29d5c6_1-2-3-Start-Code\IfStatements\IfStatements\obj\Debug\net10.0\ref\IfStatements.dll

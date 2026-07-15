@@ -1,0 +1,14 @@
+C:\Users\ethan\Documents\C# Programs&Games\IntegerDataTypes\IntegerDataTypes\obj\Debug\net10.0\IntegerDataTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ethan\Documents\C# Programs&Games\IntegerDataTypes\IntegerDataTypes\obj\Debug\net10.0\IntegerDataTypes.AssemblyInfoInputs.cache
+C:\Users\ethan\Documents\C# Programs&Games\IntegerDataTypes\IntegerDataTypes\obj\Debug\net10.0\IntegerDataTypes.AssemblyInfo.cs
+C:\Users\ethan\Documents\C# Programs&Games\IntegerDataTypes\IntegerDataTypes\obj\Debug\net10.0\IntegerDataTypes.csproj.CoreCompileInputs.cache
+C:\Users\ethan\Documents\C# Programs&Games\IntegerDataTypes\IntegerDataTypes\bin\Debug\net10.0\IntegerDataTypes.exe
+C:\Users\ethan\Documents\C# Programs&Games\IntegerDataTypes\IntegerDataTypes\bin\Debug\net10.0\IntegerDataTypes.deps.json
+C:\Users\ethan\Documents\C# Programs&Games\IntegerDataTypes\IntegerDataTypes\bin\Debug\net10.0\IntegerDataTypes.runtimeconfig.json
+C:\Users\ethan\Documents\C# Programs&Games\IntegerDataTypes\IntegerDataTypes\bin\Debug\net10.0\IntegerDataTypes.dll
+C:\Users\ethan\Documents\C# Programs&Games\IntegerDataTypes\IntegerDataTypes\bin\Debug\net10.0\IntegerDataTypes.pdb
+C:\Users\ethan\Documents\C# Programs&Games\IntegerDataTypes\IntegerDataTypes\obj\Debug\net10.0\IntegerDataTypes.dll
+C:\Users\ethan\Documents\C# Programs&Games\IntegerDataTypes\IntegerDataTypes\obj\Debug\net10.0\refint\IntegerDataTypes.dll
+C:\Users\ethan\Documents\C# Programs&Games\IntegerDataTypes\IntegerDataTypes\obj\Debug\net10.0\IntegerDataTypes.pdb
+C:\Users\ethan\Documents\C# Programs&Games\IntegerDataTypes\IntegerDataTypes\obj\Debug\net10.0\IntegerDataTypes.genruntimeconfig.cache
+C:\Users\ethan\Documents\C# Programs&Games\IntegerDataTypes\IntegerDataTypes\obj\Debug\net10.0\ref\IntegerDataTypes.dll
