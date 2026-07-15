@@ -1,0 +1,4 @@
+C:\Users\ethan\Documents\C# Programs&Games\RevisedCardGame\RevisedCardGame\obj\Debug\net10.0\RevisedCardGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ethan\Documents\C# Programs&Games\RevisedCardGame\RevisedCardGame\obj\Debug\net10.0\RevisedCardGame.AssemblyInfoInputs.cache
+C:\Users\ethan\Documents\C# Programs&Games\RevisedCardGame\RevisedCardGame\obj\Debug\net10.0\RevisedCardGame.AssemblyInfo.cs
+C:\Users\ethan\Documents\C# Programs&Games\RevisedCardGame\RevisedCardGame\obj\Debug\net10.0\RevisedCardGame.csproj.CoreCompileInputs.cache
